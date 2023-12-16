@@ -10,7 +10,7 @@
                 <h1 class = "header_text">happy birthday thom nguyen</h1>
             </div>
             <div class="gif_container">
-                <img src="<iframe src="https://giphy.com/embed/4R9iPofhP6lQzmTlhA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-birthday-youre-awesome-you-are-on-your-4R9iPofhP6lQzmTlhA">via GIPHY</a></p>" alt="Cute animated illustration">
+                <img src="<iframe src="https://media.giphy.com/media/LnKonfpQ44fNvuGLkA/giphy.gif" alt="Cute animated illustration">
             </div>
             <div class = "buttons">
                 <button class="btn" id = "yesButton" onclick="nextPage()">Yes</button>
