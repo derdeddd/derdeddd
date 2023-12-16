@@ -10,7 +10,7 @@
                 <h1 class = "header_text">HAPPY BIRTHDAY THOM NGUYEN</h1>
             </div>
             <div class="gif_container">
-                <img src="[https://media.giphy.com/media/LnKonfpQ44fNvuGLkA/giphy.gif] alt="Cute animated illustration">
+                <img src="[https://media.giphy.com/media/LnKonfpQ44fNvuGLkA/giphy.gif] alt="
             </div>
             <div class = "buttons">
                 <button class="btn" id = "yesButton" onclick="nextPage()">Yes</button>
